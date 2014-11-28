@@ -1,0 +1,7 @@
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/Test pdf.pdf in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/banner.jpg in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/content.php in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/crypt.php in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/data.json in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/dropzone.js in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
+[14-Oct-2014 16:52:05 UTC] PHP Warning:  filesize(): stat failed for ../videos/imgen.js in /data03/c8571644/public_html/bissociety.com/upload/upload/index.php on line 156
