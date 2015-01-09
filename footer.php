@@ -10,7 +10,7 @@
                      </ul>
                   </div>
                   <div class="footer-copyright-holder">
-                     <p>bis Media copyright 2014</p>
+                     <p>bis Media copyright 2015</p>
                   </div>
                </div>
             </div>
