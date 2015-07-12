@@ -17,8 +17,8 @@
                <h2>bis Media</h2>
                <p>The media site for the <br><b>British Invention Show</b></span>
                <h3>British Invention Show 2015</h3>
-               <p><b>Location to be confirned</b><br> 
-                  22 - 23 - 24 - 25 October 2015
+               <p><b>Barbican Exhibition Centre</b><br> 
+                  21 - 22 - 23 - 24 October 2015
                </p>
                <h3>The Awards</h3>
                <p>Details to be confirmed</p>

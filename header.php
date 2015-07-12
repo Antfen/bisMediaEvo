@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="initial-scale=1.0">
       <title>bis Media | media site for the British Invention Show</title>
-      <META NAME="description" CONTENT="Media site for The British Invention Show (bis) is the UK's largest invention &amp; innovation exhibition. bis returns 22 - 23 - 24 - 25 October 2014.">
+      <META NAME="description" CONTENT="Media site for The British Invention Show (bis) is the UK's largest invention &amp; innovation exhibition. bis returns 21 - 22 - 23 - 24 October 2015.">
       <META NAME="keywords" CONTENT="Media British Invention Show, bis, bis Show, the BIS, the british innovation &amp; technology show, british innovation &amp;inventions, awards">
       <link rel="stylesheet" href="css/standardize.css">
       <link rel="stylesheet" href="css/index-grid.css">
